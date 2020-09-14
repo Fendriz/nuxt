@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # noroff-nuxt-app
 
 ## Build Setup
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nuxt
+>>>>>>> 6f6cbad6af05c5f26cb949a4ab11f5a290a4f75e
